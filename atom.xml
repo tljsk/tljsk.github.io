@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>北风那个吹</title>
+  <title>北风的部落格</title>
   
-  <subtitle>Stay hungry, Stay foolish</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://tljsk.github.io/"/>
   <updated>2018-04-23T10:50:01.222Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://tljsk.github.io/</id>
   
   <author>
-    <name>🚜</name>
+    <name>北风</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/04/23/hello-world/"/>
-    <id>http://yoursite.com/2018/04/23/hello-world/</id>
+    <link href="http://tljsk.github.io/2018/04/23/hello-world/"/>
+    <id>http://tljsk.github.io/2018/04/23/hello-world/</id>
     <published>2018-04-23T10:50:01.222Z</published>
     <updated>2018-04-23T10:50:01.222Z</updated>
     
